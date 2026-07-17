@@ -13,6 +13,14 @@
 
 </div>
 
+---
+
+## About Me
+
+TBD 
+
+关注我的 ![Binance](https://www.binance.com/zh-CN/square/profile/rin_shima1317) 带你牛市起飞 
+
 ## Experience
 
 <table>
@@ -21,9 +29,51 @@
       <img src="https://cdn.jsdelivr.net/gh/DDLGitGzzhM/Blog@main/static/logos/1token.png" width="48" height="48" alt="1Token" />
     </td>
     <td>
-      <b>!token</b><br/>
+      <b>1token</b><br/>
       Junior Golang Developer<br/>
       <sub>2024.06 - 2026.07</sub>
     </td>
   </tr>
 </table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=golang,cpp,docker,git,githubactions,blender,grafana,kubernetes&theme=dark)](https://skillicons.dev)
+
+</div>
+
+<table>
+  <tr>
+    <td width="25%"><b>Languages</b><br/>Golang · C++</td>
+    <td width="25%"><b>TradingView</b><br/>Binance · FutureTrading · EarnStaking</td>
+    <td width="25%"><b>Backend & AI</b><br/>TBD</td>
+    <td width="25%"><b>Engineering</b><br/>TBD</td>
+  </tr>
+</table>
+
+## Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/liangqianxing/liangqianxing@output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/liangqianxing/liangqianxing@output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/liangqianxing/liangqianxing@output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Thanks for visiting. More notes and projects at <a href="https://ddlgitgzzhm.github.io/">ddlgitgzzhm.github.io</a>.</sub>
+
+<br/><br/>
+
+</div>
+
