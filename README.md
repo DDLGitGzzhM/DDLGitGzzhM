@@ -19,7 +19,7 @@
 
 TBD 
 
-关注我的 ![Binance](https://www.binance.com/zh-CN/square/profile/rin_shima1317) 带你牛市起飞 
+关注我的 ![Binance](https://cdn.jsdelivr.net/gh/DDLGitGzzhM/Blog@main/static/logos/bn.png) 带你牛市起飞 
 
 ## Experience
 
